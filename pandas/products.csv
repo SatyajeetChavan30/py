@@ -1,0 +1,201 @@
+product_id,product_name,category,cost_price,supplier
+P0001,Wireless Mouse - Variant 1,Electronics,33.43,Supplier D
+P0002,Wireless Mouse - Variant 2,Electronics,65.14,Supplier B
+P0003,Wireless Mouse - Variant 3,Electronics,28.89,Supplier D
+P0004,Wireless Mouse - Variant 4,Electronics,22.8,Supplier E
+P0005,Bluetooth Speaker - Variant 1,Electronics,129.46,Supplier A
+P0006,Bluetooth Speaker - Variant 2,Electronics,50.1,Supplier C
+P0007,Bluetooth Speaker - Variant 3,Electronics,56.03,Supplier D
+P0008,Bluetooth Speaker - Variant 4,Electronics,11.12,Supplier E
+P0009,USB-C Cable - Variant 1,Electronics,55.53,Supplier E
+P0010,USB-C Cable - Variant 2,Electronics,41.93,Supplier A
+P0011,USB-C Cable - Variant 3,Electronics,92.74,Supplier B
+P0012,USB-C Cable - Variant 4,Electronics,33.19,Supplier B
+P0013,Laptop Stand - Variant 1,Electronics,133.59,Supplier E
+P0014,Laptop Stand - Variant 2,Electronics,139.66,Supplier D
+P0015,Laptop Stand - Variant 3,Electronics,17.68,Supplier E
+P0016,Laptop Stand - Variant 4,Electronics,18.79,Supplier A
+P0017,Mechanical Keyboard - Variant 1,Electronics,19.95,Supplier A
+P0018,Mechanical Keyboard - Variant 2,Electronics,94.08,Supplier B
+P0019,Mechanical Keyboard - Variant 3,Electronics,20.93,Supplier E
+P0020,Mechanical Keyboard - Variant 4,Electronics,128.3,Supplier C
+P0021,Webcam HD - Variant 1,Electronics,113.88,Supplier C
+P0022,Webcam HD - Variant 2,Electronics,123.51,Supplier D
+P0023,Webcam HD - Variant 3,Electronics,80.33,Supplier D
+P0024,Webcam HD - Variant 4,Electronics,149.51,Supplier B
+P0025,Power Bank - Variant 1,Electronics,9.49,Supplier A
+P0026,Power Bank - Variant 2,Electronics,61.99,Supplier C
+P0027,Power Bank - Variant 3,Electronics,50.62,Supplier C
+P0028,Power Bank - Variant 4,Electronics,142.45,Supplier C
+P0029,Smartwatch - Variant 1,Electronics,87.8,Supplier C
+P0030,Smartwatch - Variant 2,Electronics,121.51,Supplier B
+P0031,Smartwatch - Variant 3,Electronics,28.04,Supplier E
+P0032,Smartwatch - Variant 4,Electronics,146.86,Supplier C
+P0033,Noise Cancelling Headphones - Variant 1,Electronics,76.3,Supplier A
+P0034,Noise Cancelling Headphones - Variant 2,Electronics,75.57,Supplier C
+P0035,Noise Cancelling Headphones - Variant 3,Electronics,145.72,Supplier D
+P0036,Noise Cancelling Headphones - Variant 4,Electronics,58.97,Supplier A
+P0037,Router - Variant 1,Electronics,61.44,Supplier E
+P0038,Router - Variant 2,Electronics,88.96,Supplier C
+P0039,Router - Variant 3,Electronics,21.82,Supplier B
+P0040,Router - Variant 4,Electronics,50.2,Supplier B
+P0041,Non-stick Pan - Variant 1,Home & Kitchen,31.4,Supplier C
+P0042,Non-stick Pan - Variant 2,Home & Kitchen,18.18,Supplier D
+P0043,Non-stick Pan - Variant 3,Home & Kitchen,130.32,Supplier B
+P0044,Non-stick Pan - Variant 4,Home & Kitchen,89.63,Supplier A
+P0045,Electric Kettle - Variant 1,Home & Kitchen,55.72,Supplier D
+P0046,Electric Kettle - Variant 2,Home & Kitchen,63.07,Supplier E
+P0047,Electric Kettle - Variant 3,Home & Kitchen,66.43,Supplier E
+P0048,Electric Kettle - Variant 4,Home & Kitchen,96.07,Supplier B
+P0049,Vacuum Flask - Variant 1,Home & Kitchen,139.24,Supplier D
+P0050,Vacuum Flask - Variant 2,Home & Kitchen,140.12,Supplier B
+P0051,Vacuum Flask - Variant 3,Home & Kitchen,60.55,Supplier E
+P0052,Vacuum Flask - Variant 4,Home & Kitchen,51.4,Supplier B
+P0053,Cutlery Set - Variant 1,Home & Kitchen,69.3,Supplier D
+P0054,Cutlery Set - Variant 2,Home & Kitchen,86.49,Supplier C
+P0055,Cutlery Set - Variant 3,Home & Kitchen,70.89,Supplier E
+P0056,Cutlery Set - Variant 4,Home & Kitchen,99.84,Supplier C
+P0057,Blender - Variant 1,Home & Kitchen,84.5,Supplier D
+P0058,Blender - Variant 2,Home & Kitchen,50.15,Supplier E
+P0059,Blender - Variant 3,Home & Kitchen,53.82,Supplier B
+P0060,Blender - Variant 4,Home & Kitchen,58.65,Supplier B
+P0061,Air Fryer - Variant 1,Home & Kitchen,16.91,Supplier B
+P0062,Air Fryer - Variant 2,Home & Kitchen,27.41,Supplier E
+P0063,Air Fryer - Variant 3,Home & Kitchen,109.3,Supplier E
+P0064,Air Fryer - Variant 4,Home & Kitchen,60.2,Supplier B
+P0065,Chopping Board - Variant 1,Home & Kitchen,34.54,Supplier B
+P0066,Chopping Board - Variant 2,Home & Kitchen,85.71,Supplier C
+P0067,Chopping Board - Variant 3,Home & Kitchen,114.06,Supplier E
+P0068,Chopping Board - Variant 4,Home & Kitchen,40.84,Supplier B
+P0069,Dinner Set - Variant 1,Home & Kitchen,124.54,Supplier D
+P0070,Dinner Set - Variant 2,Home & Kitchen,139.34,Supplier B
+P0071,Dinner Set - Variant 3,Home & Kitchen,90.82,Supplier E
+P0072,Dinner Set - Variant 4,Home & Kitchen,101.34,Supplier B
+P0073,Storage Containers - Variant 1,Home & Kitchen,10.73,Supplier C
+P0074,Storage Containers - Variant 2,Home & Kitchen,141.99,Supplier A
+P0075,Storage Containers - Variant 3,Home & Kitchen,60.7,Supplier E
+P0076,Storage Containers - Variant 4,Home & Kitchen,138.81,Supplier E
+P0077,Table Lamp - Variant 1,Home & Kitchen,88.11,Supplier A
+P0078,Table Lamp - Variant 2,Home & Kitchen,3.68,Supplier B
+P0079,Table Lamp - Variant 3,Home & Kitchen,8.67,Supplier C
+P0080,Table Lamp - Variant 4,Home & Kitchen,103.02,Supplier B
+P0081,Cotton T-Shirt - Variant 1,Apparel,85.71,Supplier A
+P0082,Cotton T-Shirt - Variant 2,Apparel,6.9,Supplier C
+P0083,Cotton T-Shirt - Variant 3,Apparel,112.29,Supplier D
+P0084,Cotton T-Shirt - Variant 4,Apparel,128.27,Supplier D
+P0085,Denim Jeans - Variant 1,Apparel,75.97,Supplier C
+P0086,Denim Jeans - Variant 2,Apparel,71.47,Supplier D
+P0087,Denim Jeans - Variant 3,Apparel,3.8,Supplier C
+P0088,Denim Jeans - Variant 4,Apparel,118.64,Supplier B
+P0089,Running Shoes - Variant 1,Apparel,51.62,Supplier B
+P0090,Running Shoes - Variant 2,Apparel,132.18,Supplier A
+P0091,Running Shoes - Variant 3,Apparel,57.84,Supplier B
+P0092,Running Shoes - Variant 4,Apparel,86.07,Supplier B
+P0093,Hoodie - Variant 1,Apparel,42.74,Supplier A
+P0094,Hoodie - Variant 2,Apparel,26.61,Supplier E
+P0095,Hoodie - Variant 3,Apparel,116.91,Supplier E
+P0096,Hoodie - Variant 4,Apparel,76.0,Supplier C
+P0097,Formal Shirt - Variant 1,Apparel,81.86,Supplier E
+P0098,Formal Shirt - Variant 2,Apparel,144.92,Supplier E
+P0099,Formal Shirt - Variant 3,Apparel,144.65,Supplier E
+P0100,Formal Shirt - Variant 4,Apparel,128.78,Supplier B
+P0101,Rain Jacket - Variant 1,Apparel,30.58,Supplier E
+P0102,Rain Jacket - Variant 2,Apparel,90.36,Supplier B
+P0103,Rain Jacket - Variant 3,Apparel,132.09,Supplier B
+P0104,Rain Jacket - Variant 4,Apparel,58.05,Supplier A
+P0105,Wool Sweater - Variant 1,Apparel,17.86,Supplier C
+P0106,Wool Sweater - Variant 2,Apparel,122.21,Supplier A
+P0107,Wool Sweater - Variant 3,Apparel,73.82,Supplier D
+P0108,Wool Sweater - Variant 4,Apparel,85.97,Supplier B
+P0109,Sports Cap - Variant 1,Apparel,147.38,Supplier E
+P0110,Sports Cap - Variant 2,Apparel,92.26,Supplier E
+P0111,Sports Cap - Variant 3,Apparel,65.47,Supplier D
+P0112,Sports Cap - Variant 4,Apparel,57.39,Supplier C
+P0113,Leather Belt - Variant 1,Apparel,64.39,Supplier B
+P0114,Leather Belt - Variant 2,Apparel,20.4,Supplier D
+P0115,Leather Belt - Variant 3,Apparel,119.83,Supplier D
+P0116,Leather Belt - Variant 4,Apparel,126.14,Supplier D
+P0117,Sneakers - Variant 1,Apparel,44.81,Supplier B
+P0118,Sneakers - Variant 2,Apparel,47.66,Supplier B
+P0119,Sneakers - Variant 3,Apparel,131.53,Supplier B
+P0120,Sneakers - Variant 4,Apparel,6.52,Supplier B
+P0121,Notebook A5 - Variant 1,Stationery,79.51,Supplier A
+P0122,Notebook A5 - Variant 2,Stationery,71.16,Supplier D
+P0123,Notebook A5 - Variant 3,Stationery,104.45,Supplier A
+P0124,Notebook A5 - Variant 4,Stationery,27.02,Supplier C
+P0125,Gel Pen Pack - Variant 1,Stationery,101.24,Supplier D
+P0126,Gel Pen Pack - Variant 2,Stationery,58.38,Supplier B
+P0127,Gel Pen Pack - Variant 3,Stationery,93.95,Supplier B
+P0128,Gel Pen Pack - Variant 4,Stationery,8.89,Supplier B
+P0129,Sticky Notes - Variant 1,Stationery,70.87,Supplier A
+P0130,Sticky Notes - Variant 2,Stationery,79.77,Supplier B
+P0131,Sticky Notes - Variant 3,Stationery,34.51,Supplier D
+P0132,Sticky Notes - Variant 4,Stationery,23.52,Supplier E
+P0133,Desk Organizer - Variant 1,Stationery,30.71,Supplier D
+P0134,Desk Organizer - Variant 2,Stationery,53.59,Supplier C
+P0135,Desk Organizer - Variant 3,Stationery,17.23,Supplier D
+P0136,Desk Organizer - Variant 4,Stationery,142.26,Supplier B
+P0137,Highlighter Set - Variant 1,Stationery,62.53,Supplier D
+P0138,Highlighter Set - Variant 2,Stationery,121.92,Supplier D
+P0139,Highlighter Set - Variant 3,Stationery,146.24,Supplier A
+P0140,Highlighter Set - Variant 4,Stationery,14.87,Supplier E
+P0141,Whiteboard Marker - Variant 1,Stationery,98.8,Supplier D
+P0142,Whiteboard Marker - Variant 2,Stationery,131.1,Supplier C
+P0143,Whiteboard Marker - Variant 3,Stationery,96.23,Supplier D
+P0144,Whiteboard Marker - Variant 4,Stationery,66.07,Supplier E
+P0145,File Folder - Variant 1,Stationery,66.37,Supplier E
+P0146,File Folder - Variant 2,Stationery,8.28,Supplier E
+P0147,File Folder - Variant 3,Stationery,81.59,Supplier E
+P0148,File Folder - Variant 4,Stationery,149.05,Supplier E
+P0149,Sketch Pens - Variant 1,Stationery,143.93,Supplier A
+P0150,Sketch Pens - Variant 2,Stationery,8.94,Supplier E
+P0151,Sketch Pens - Variant 3,Stationery,106.75,Supplier A
+P0152,Sketch Pens - Variant 4,Stationery,47.36,Supplier D
+P0153,Stapler - Variant 1,Stationery,135.74,Supplier D
+P0154,Stapler - Variant 2,Stationery,9.63,Supplier A
+P0155,Stapler - Variant 3,Stationery,140.57,Supplier B
+P0156,Stapler - Variant 4,Stationery,126.11,Supplier E
+P0157,Calculator - Variant 1,Stationery,20.27,Supplier E
+P0158,Calculator - Variant 2,Stationery,11.79,Supplier D
+P0159,Calculator - Variant 3,Stationery,125.7,Supplier A
+P0160,Calculator - Variant 4,Stationery,25.9,Supplier E
+P0161,Yoga Mat - Variant 1,Sports,81.63,Supplier D
+P0162,Yoga Mat - Variant 2,Sports,137.61,Supplier E
+P0163,Yoga Mat - Variant 3,Sports,86.41,Supplier A
+P0164,Yoga Mat - Variant 4,Sports,61.39,Supplier B
+P0165,Football - Variant 1,Sports,68.42,Supplier C
+P0166,Football - Variant 2,Sports,12.28,Supplier D
+P0167,Football - Variant 3,Sports,145.41,Supplier D
+P0168,Football - Variant 4,Sports,48.67,Supplier C
+P0169,Badminton Racket - Variant 1,Sports,30.84,Supplier C
+P0170,Badminton Racket - Variant 2,Sports,45.05,Supplier D
+P0171,Badminton Racket - Variant 3,Sports,144.76,Supplier B
+P0172,Badminton Racket - Variant 4,Sports,16.86,Supplier D
+P0173,Dumbbell Set - Variant 1,Sports,130.49,Supplier C
+P0174,Dumbbell Set - Variant 2,Sports,107.05,Supplier E
+P0175,Dumbbell Set - Variant 3,Sports,125.01,Supplier A
+P0176,Dumbbell Set - Variant 4,Sports,146.46,Supplier E
+P0177,Skipping Rope - Variant 1,Sports,126.8,Supplier B
+P0178,Skipping Rope - Variant 2,Sports,141.68,Supplier D
+P0179,Skipping Rope - Variant 3,Sports,21.66,Supplier D
+P0180,Skipping Rope - Variant 4,Sports,119.98,Supplier A
+P0181,Cricket Bat - Variant 1,Sports,83.21,Supplier E
+P0182,Cricket Bat - Variant 2,Sports,82.89,Supplier A
+P0183,Cricket Bat - Variant 3,Sports,135.14,Supplier B
+P0184,Cricket Bat - Variant 4,Sports,145.86,Supplier E
+P0185,Cycling Helmet - Variant 1,Sports,106.61,Supplier E
+P0186,Cycling Helmet - Variant 2,Sports,73.99,Supplier B
+P0187,Cycling Helmet - Variant 3,Sports,70.09,Supplier D
+P0188,Cycling Helmet - Variant 4,Sports,59.79,Supplier D
+P0189,Water Bottle - Variant 1,Sports,56.16,Supplier C
+P0190,Water Bottle - Variant 2,Sports,60.55,Supplier D
+P0191,Water Bottle - Variant 3,Sports,16.19,Supplier A
+P0192,Water Bottle - Variant 4,Sports,14.38,Supplier B
+P0193,Resistance Bands - Variant 1,Sports,117.64,Supplier D
+P0194,Resistance Bands - Variant 2,Sports,68.57,Supplier E
+P0195,Resistance Bands - Variant 3,Sports,139.81,Supplier B
+P0196,Resistance Bands - Variant 4,Sports,93.0,Supplier D
+P0197,Table Tennis Set - Variant 1,Sports,8.17,Supplier A
+P0198,Table Tennis Set - Variant 2,Sports,26.16,Supplier C
+P0199,Table Tennis Set - Variant 3,Sports,33.26,Supplier C
+P0200,Table Tennis Set - Variant 4,Sports,146.43,Supplier B
